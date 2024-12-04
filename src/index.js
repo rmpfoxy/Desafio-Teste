@@ -1,1 +1,2 @@
-console.log("Toy Story");
+let nome = "Rodrigo";
+console.log(nome);
